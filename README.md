@@ -1,3 +1,7 @@
 <p align="center">
-  <img src="https://tenor.com/v5hYSjbE5Vo.gif" alt="Alt text description">
+<img width="200" src="https://files.catbox.moe/dlj91s.webp" alt="kurt">
+</p>
+
+<p align="center">
+$${\color{white}hi}$$
 </p>
